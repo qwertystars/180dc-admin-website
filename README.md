@@ -7,7 +7,7 @@ This monorepo uses Turborepo for managing builds and Cloudflare Workers for depl
 - pnpm (preferred)
 - [Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/)
 
-npm install
+pnpm install
 ## Install dependencies
 ```
 pnpm install
